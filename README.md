@@ -1,1 +1,1 @@
-To learn Type Script
+Learning Type Script
